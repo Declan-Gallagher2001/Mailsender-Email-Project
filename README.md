@@ -57,20 +57,6 @@ python mailersend_example.py
 
 ## Configuration
 
-### API Key
-Current API key: ``
-
-### Template ID
-Current template: `pr9084zy8r8gw63d`
-
-### Sender Email
-From: Declan Gallagher <declangallagher@gallaghertech.co.uk>
-
-### Subject Line
-"Hello from Gallagher Tech"
-
-## Notes
-
 - Make sure your sender domain is verified in MailerSend
 - Trial accounts can only send to administrator email addresses
 - The Excel file should have NO headers (just data starting from row 1)
