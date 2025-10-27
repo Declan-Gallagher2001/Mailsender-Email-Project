@@ -58,7 +58,7 @@ python mailersend_example.py
 ## Configuration
 
 ### API Key
-Current API key: `mlsn.ea6931199ab1ea93c6472c95454ba5eb28874fbf58a65d05b5ef739feceb8af1`
+Current API key: ``
 
 ### Template ID
 Current template: `pr9084zy8r8gw63d`
