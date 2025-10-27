@@ -4,7 +4,7 @@ import pandas as pd
 # Set your API key here - Need from Admin
 mailer = MailerSendClient(api_key="")
 
-# Read the Excel file (no headers, first column is name, second column is email)
+# Read the Excel file (no headers, first column is name, second column is email) - update name of file to devs choice
 df = pd.read_excel('recipients.xlsx', header=None, names=['name', 'email'])
 
 # Sender information - Need info 
